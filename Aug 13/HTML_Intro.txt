@@ -1,0 +1,9 @@
+Introduction
+
+http://developer.mozilla.org/en-US/docs/Web/HTML
+
+Tags with opening and closing sections are CONTAINER TAGS
+
+<p> </p> - Paragraph
+<br> - next line
+<input type=""> - receive runtime i/ps
