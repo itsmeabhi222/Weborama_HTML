@@ -1,0 +1,35 @@
+/* .head1{
+    color:aqua;
+    top:100px;
+    left: 100px;
+    position: relative;
+}
+
+#head2{
+    color:aqua;
+    top:500px;
+    left: 500px;
+    position: absolute;
+} */
+
+.next-div{
+    background-color: orange;
+    color: whitesmoke;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    height: 100vh;
+    width: 50vw;
+}
+
+.comet{
+    background-color: magenta;
+    color: blue;
+    position: relative;
+    top: 50rem;
+    bottom: 50%;
+}
+
+
+}
+}
